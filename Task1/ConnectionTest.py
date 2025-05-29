@@ -14,4 +14,4 @@ try:
 
 except ConnectionFailure as e:
     print("Connection failed!")
-    print(f"Reason: {e}")
+    print("Reason: {e}")
