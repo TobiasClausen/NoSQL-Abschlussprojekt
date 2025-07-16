@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15ccba1b-9c9d-46e2-80c0-5325a4bd70b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Task2/consoleOutput.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/ConnectionTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/ConnectionTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2/MongoDBExplorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/MongoDBExplorer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3/RestaurantDatabase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task3/RestaurantDatabase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task6/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TobiasClausen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TobiasClausen&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TobiasClausen/NoSQL-Abschlussprojekt",
-    "accountId": "f3f5d231-cd6d-4ea4-9e1d-7aba7705a405"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TobiasClausen/NoSQL-Abschlussprojekt&quot;,
+    &quot;accountId&quot;: &quot;f3f5d231-cd6d-4ea4-9e1d-7aba7705a405&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ytluxkc2bNhUNAUwQkuJ3uJrcB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.MongoDBExplorer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/tobiasclausen/Documents/Schule/Berufsschule/4Semester/2NoSQL/NoSQL-Abschlussprojekt",
     "node.js.detected.package.eslint": "true",
@@ -51,6 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -110,8 +109,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
-        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -122,7 +121,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750661977086</updated>
-      <workItem from="1750661978330" duration="9525000" />
+      <workItem from="1750661978330" duration="11487000" />
+      <workItem from="1750842481301" duration="6370000" />
+      <workItem from="1752641201727" duration="693000" />
     </task>
     <servers />
   </component>
