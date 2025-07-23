@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ccba1b-9c9d-46e2-80c0-5325a4bd70b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task2/consoleOutput.md" afterDir="false" />
+    <list default="true" id="15ccba1b-9c9d-46e2-80c0-5325a4bd70b9" name="Changes" comment="add consoleOutput.md">
+      <change afterPath="$PROJECT_DIR$/Task3/dokumentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/dokumentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/mongodbConnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/pathReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/dokumentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/powerStatistik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/dokumentation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,8 +140,17 @@
       <updated>1750661977086</updated>
       <workItem from="1750661978330" duration="11487000" />
       <workItem from="1750842481301" duration="6370000" />
-      <workItem from="1752641201727" duration="693000" />
+      <workItem from="1752641201727" duration="14761000" />
     </task>
+    <task id="LOCAL-00001" summary="add consoleOutput.md">
+      <option name="closed" value="true" />
+      <created>1752641914321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752641914321</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add consoleOutput.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add consoleOutput.md" />
   </component>
 </project>
